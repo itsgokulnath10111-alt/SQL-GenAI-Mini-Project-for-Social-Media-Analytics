@@ -27,8 +27,6 @@ optimization, and analytical insight generation.
 4. Refer to the PDF for explanations and results
 
 ## Project Developed By
-Pavithra D
+GOKUL nath M
 
-## AI Assistance
-Generative AI tools were used for SQL query formulation,
-optimization, and analytical support.
+
