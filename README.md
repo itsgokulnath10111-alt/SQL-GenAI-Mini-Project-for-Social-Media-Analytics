@@ -1,0 +1,1 @@
+# SQL-GenAI-Mini-Project-for-Social-Media-Analytics
